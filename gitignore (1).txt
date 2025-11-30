@@ -1,0 +1,8 @@
+Alias
+ICAO
+NavData
+**/aeronav*
+Settings/VoiceChannels.txt
+ASR
+LICENSE
+README.md
