@@ -1,0 +1,91 @@
+PROFILE
+PROFILE:UNKL_CTR:598:6
+ATIS2:Krasnoyarsk-Control
+ATIS3:Sector Control from GND to UNL
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_APP:150:5
+ATIS2:Krasnoyarsk-Approach
+ATIS3:Sector Approach from 70 to FL190
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_R_APP:150:5
+ATIS2:Krasnoyarsk-Radar
+ATIS3:Sector Radar from GND to 70
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_TWR:50:4
+ATIS2:Krasnoyarsk-Tower
+ATIS3:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_GND:20:3
+ATIS2:Krasnoyarsk-Ground
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_N_CTR:598:6
+ATIS2:Krasnoyarsk-Control
+ATIS3:Sector North from GND to UNL
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_N1_CTR:598:6
+ATIS2:Krasnoyarsk-Control
+ATIS3:Sector North from GND to UNL
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_N2_CTR:598:6
+ATIS2:Krasnoyarsk-Control
+ATIS3:Sector North from GND to UNL
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_S_CTR:598:6
+ATIS2:Krasnoyarsk-Control
+ATIS3:Sector South from GND to UNL
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_S1_CTR:598:6
+ATIS2:Krasnoyarsk-Control
+ATIS3:Sector South from GND to UNL
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_S2_CTR:598:6
+ATIS2:Krasnoyarsk-Control
+ATIS3:Sector South from GND to UNL
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKL_S3_CTR:598:6
+ATIS2:Krasnoyarsk-Control
+ATIS3:Sector South from GND to UNL
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNAA_R_APP:150:5
+ATIS2:Abakan-Radar
+ATIS3:Sector Radar from GND to FL100
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNAA_TWR:50:4
+ATIS2:Abakan-Start
+ATIS3:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNAU_APP:150:5
+ATIS2:Appetit-Podkhod
+ATIS3:FIR Only
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UOII_APP:150:5
+ATIS2:Igarka-Podkhod
+ATIS3:Sector Approach from GND to FL170
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKY_TWR:50:5
+ATIS2:Kyzyl-Tower
+ATIS3:Sector Tower from GND to FL170
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNIW_TWR:50:5
+ATIS2:Vanavara-Vyshka
+ATIS3:Sector Tower from GND to FL080
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UOHH_TWR:50:5
+ATIS2:Khatanga-Vyshka
+ATIS3:Sector Tower from GND to FL080
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNIP_TWR:50:5
+ATIS2:Tunguska-Vyshka
+ATIS3:Sector Tower from GND to FL080
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:XNKG_APP:150:5
+ATIS2:Rastuschii-Podkhod
+ATIS3:Sector Approach from GND to FL265
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:UNKI_TWR:150:5
+ATIS2:Arkheolog-Vyshka
+ATIS3:Sector Tower from GND to FL080
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+PROFILE:XX_OBS:300:0
+ATIS2:Observer
+ATIS3:Observer
+ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+END
