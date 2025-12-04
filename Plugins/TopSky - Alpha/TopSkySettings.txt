@@ -1,6 +1,3 @@
-
-//abrakadabra
-
 //Cursors
 //System_GUI_Scale_Cursors=1
 
