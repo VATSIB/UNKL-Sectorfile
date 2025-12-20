@@ -30,12 +30,12 @@ m_ExtendedCenterlinActiveArr:0
 m_UseHoveringTagForKeys:1
 m_AutoMessageForTextAircraft:1
 m_ShowRouteWhenAccepting:1
-m_AllowAssumedACTagDown:0
+m_AllowAssumedACTagDown:1
 m_InhibitAutoPushOnHandoff:0
 m_RandomSquawks:1
 m_VFRSquawks:7000
 m_WhoIsOnlineURL:http://vatsim.metacraft.com/vatsim-data.txt
-m_AutoLoadMetarForActiveAirports:0
+m_AutoLoadMetarForActiveAirports:1
 m_LockShowRouteWhenAccepting:0
 m_VoiceAtisBuilderUrl:http://vacchun.hu/td/esmetar.php?tlcond=100,1013,110&metar=$metar($atisairport)&arr=$arrrwy($atisairport)&dep=$deprwy($atisairport)&app=ILS&par=1&info=$atiscode&lvp=2
 m_DoNotUseAcceptedColor:0
@@ -44,8 +44,8 @@ SET_TransparentAcListBackground:0
 m_PutIncomingCoordinationToFirst:0
 m_AutoProxyMode:0
 m_TransparentAcListSelectedBackground:0
-m_TransparentDetailedTagBackground:1
-m_TransparentDetailedTagSelectedItemBackground:1
+m_TransparentDetailedTagBackground:0
+m_TransparentDetailedTagSelectedItemBackground:0
 m_AllowDirectBeyondCOPX:0
 m_ShowAtisLetterInMETAR:1
 m_ShowCLAMWarnings:1
@@ -70,7 +70,7 @@ m_CorrelationMode:0
 m_CorrelationDistance:30
 m_SimulateRadars:0
 m_AllowCorrelatedTAGDown:1
-m_ShowDetailedOverUntagged:0
+m_ShowDetailedOverUntagged:1
 m_ShowRectAroundFPTrack:1
 m_ShowRectAroundASEL:0
 m_VatsimStatusURL:http://status.vatsim.net/
@@ -124,7 +124,7 @@ m_RotateFlightPlanTrackSymbol:0
 m_RubberHeadingRounding:5
 SqawkForSModeTransponder:
 m_TransparentTagBackground:1
-m_UseArrDepTagBgColor:1
+m_UseArrDepTagBgColor:0
 SET_MTCA_Show:1
 m_TaxiOutTime:7
 m_StartupTime:10

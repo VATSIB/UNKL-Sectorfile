@@ -2,10 +2,10 @@ SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:6579300:1.0:0:0:7
 Airports:name:6579300:3.5:0:0:1
-Low airways:line:6447714:3.5:0:1:7
-Low airways:name:6579300:0.5:0:0:8
+Low airways:line:8421376:3.5:0:1:7
+Low airways:name:0:3.0:0:0:8
 High airways:line:6644818:3.5:0:1:7
-High airways:name:2512998:0.5:0:0:8
+High airways:name:2512998:3.0:0:0:8
 Fixes:symbol:6447714:0.6:0:0:7
 Fixes:name:6579300:3.5:0:0:2
 Sids:line:6644818:3.0:0:0:7
@@ -24,10 +24,10 @@ Runways:centerline:8421504:3.5:0:0:7
 Runways:extended centerline:14803425:3.5:0:0:7
 Runways:name:8421504:3.5:0:0:7
 Datablock:non concerned:14803425:3.5:0:1:7
-Datablock:notified:16777215:3.5:0:1:7
+Datablock:notified:14803425:3.5:0:1:7
 Datablock:assumed:16777215:3.5:0:1:7
 Datablock:transfer to me initiated:16777017:3.5:0:1:7
-Datablock:redundant:137:3.5:0:1:7
+Datablock:redundant:16777215:3.5:0:1:7
 Datablock:information:65535:3.5:0:0:7
 Datablock:even flight level:16777215:3.5:0:0:7
 Datablock:odd flight level:16777215:3.5:0:0:7
@@ -36,20 +36,20 @@ Datablock:departures:16777215:3.5:0:0:7
 Datablock:user 1:8912896:3.5:0:0:7
 Datablock:user 2:0:3.5:0:0:7
 Datablock:user 3:15253247:3.5:0:0:7
-Datablock:user 4:16777215:3.5:0:0:7
-Datablock:user 5:16777215:3.5:0:0:7
-Datablock:user 6:16777215:3.5:0:0:7
-Datablock:emergency:3289855:3.5:0:1:7
-Datablock:ongoing requested by me:12615935:3.5:0:0:7
-Datablock:ongoing requested by other:8454016:3.5:0:0:7
-Datablock:ongoing accepted:65535:3.5:0:0:7
-Datablock:ongoing refused:65535:3.5:0:0:7
+Datablock:user 4:65280:3.5:0:0:7
+Datablock:user 5:16699269:3.5:0:0:7
+Datablock:user 6:6560100:3.5:0:0:7
+Datablock:emergency:255:3.5:0:1:7
+Datablock:ongoing requested by me:16711680:3.5:0:0:7
+Datablock:ongoing requested by other:15921664:3.5:0:0:7
+Datablock:ongoing accepted:53760:3.5:0:0:7
+Datablock:ongoing refused:64:3.5:0:0:7
 Datablock:detailed background:8816262:3.5:0:0:7
-Datablock:active item background:7303023:3.5:0:0:7
+Datablock:active item background:8421631:3.5:0:0:7
 Datablock:arrival background:8816262:3.5:0:0:7
 Datablock:departure background:11842740:1.4:0:0:7
 Datablock:AC list background:9803157:3.5:0:0:7
-Datablock:AC list selected background:6052956:3.5:0:0:7
+Datablock:AC list selected background:8224125:3.2:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
 Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
 Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
@@ -62,8 +62,8 @@ Metar:normal:16776960:3.5:0:0:7
 Metar:modified:13408767:3.5:0:0:7
 Metar:timeout:16777215:3.5:0:0:7
 Other:wait:16777215:3.5:0:0:7
-Other:distance line:14627616:3.5:0:0:7
-Other:distance values:16777215:4.0:0:0:7
+Other:distance line:16776960:3.5:0:0:7
+Other:distance values:65535:4.0:0:0:7
 Other:distance annotation:65535:3.5:0:0:7
 Other:separation leader:16777215:3.5:0:3:7
 Other:separation leader2:16777215:3.5:0:1:7
@@ -95,10 +95,10 @@ Chat:name unread:16776960:3.5:0:0:7
 Ground Network:exit:16711680:3.5:0:3:7
 Ground Network:taxiway:65280:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
-Sector:line:9961471:4.0:0:2:7
+Sector:line:8421504:4.0:0:2:7
 Sector:msaw:32768:2.0:0:2:7
-Sector:active sector background:9474192:3.5:0:0:7
-Sector:inactive sector background:8816262:3.5:0:0:7
+Sector:active sector background:8224125:3.5:0:0:7
+Sector:inactive sector background:8224125:3.5:0:0:7
 SYMBOL:0
 SYMBOLITEM:MOVETO -4 -4
 SYMBOLITEM:LINETO 4 -4
