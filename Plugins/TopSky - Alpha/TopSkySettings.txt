@@ -183,7 +183,7 @@ System_UseReportedGS=0
 System_ASP_IasMach=25000
 System_MetarSourceVATSIM=1
 System_UseRwyLockedColor=1
-System_UseSidStarAllocationColor=1
+//System_UseSidStarAllocationColor=1
 System_TaxiTime=5
 System_FPASD=0
 
