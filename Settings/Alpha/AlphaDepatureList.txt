@@ -22,6 +22,6 @@ m_Column:C:1:1:10046:27:0:1:TopSky plugin:::1:0.0
 m_Column:COM:4:1:58:32:0:1:TopSky plugin:::0:0.0
 m_Column:TIME:5:1:1:2:3:1:VSS Plugin:VSS Plugin:VSS Plugin:1:0.0
 m_Column:DSQ:3:1:57:0:0:1::::1:0.0
-m_Column:STS:7:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
+m_Column:STS:9:1:3:13:0:1:Ground Radar plugin:Ground Radar plugin::1:0.0
 m_Column:RMK:8:1:38:2:0:1:TopSky plugin:TopSky plugin::0:0.0
 END
