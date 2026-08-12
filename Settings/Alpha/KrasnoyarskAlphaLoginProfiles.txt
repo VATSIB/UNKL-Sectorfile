@@ -14,8 +14,10 @@ ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
 PROFILE:UNKL_TWR:50:4
 ATIS2:Krasnoyarsk-Tower
 ATIS3:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+ATIS4:
 PROFILE:UNKL_GND:20:3
 ATIS2:Krasnoyarsk-Ground
+ATIS3:
 ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
 PROFILE:UNKL_N_CTR:598:6
 ATIS2:Krasnoyarsk-Control
@@ -52,6 +54,7 @@ ATIS4:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
 PROFILE:UNAA_TWR:50:4
 ATIS2:Abakan-Start
 ATIS3:Discord Krasnoyarsk ACC discord.gg/N4jQeS7stc
+ATIS4:
 PROFILE:UNAU_APP:150:5
 ATIS2:Appetit-Podkhod
 ATIS3:FIR Only
