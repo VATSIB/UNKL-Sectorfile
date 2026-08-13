@@ -46,13 +46,13 @@ APW_AlertSound_Filter=2
 APW_UseCFL=1
 
 Areas_NOTAM_Activation=1
-Shortcut_Map_Xfr_Combo=1,0x12
-Shortcut_Map_Xfr_Key=1,0x48 ; H
+
+Shortcut_Map_Xfr_Key=1,0x48 ; M
 Shortcut_Map_Target=1,UNKL - Krasnoyarsk\UNKL_R_APP_NUM
 
-Shortcut_Map_Xfr_Combo=2,0x12
 Shortcut_Map_Xfr_Key=2,0x56 ; V
 Shortcut_Map_Target=2,VFR\VFR_KRAS
+
 //---------- Symbology Alpha ----------//
 Color_Active_Map_Type_1=120,0,0
 Color_Active_Map_Type_2=80,162,74
