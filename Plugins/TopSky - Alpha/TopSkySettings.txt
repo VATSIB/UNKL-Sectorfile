@@ -183,7 +183,7 @@ SAP_Buffer_Vert_L_VFR=0
 
 Shortcut_RadarMenu_Combo=0x00
 
-STCA=1
+STCA=0
 STCA_AlertSound=1
 STCA_AlertSound_Filter=2
 STCA_UseCFL=1
